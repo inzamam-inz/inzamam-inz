@@ -1,18 +1,10 @@
-### Assalamu-Alaikum
+## Assalamu-Alaikum
  I am Md. Inzamam-Ul Haque Sobuz ✨
-
-<!--
-**rakib3004/rakib3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
 - Studying at [Software Engineering, University of Dhaka](http://www.iit.du.ac.bd/)
-
-
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rakib3004)](https://github.com/anuraghazra/github-readme-stats)-->
+### My Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=inzamam-inz&show_icons=true&theme=tokyonight)
 
-### My Stacks
+## My Stacks
 <img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515) <br/>
 <img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515)
 
