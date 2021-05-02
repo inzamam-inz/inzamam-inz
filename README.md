@@ -13,9 +13,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=inzamam-inz&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamam-inz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## My Handles
  [<img src="https://img.shields.io/badge/inzamam_inz-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-inzamam-ul-haque-sobuz-637811193/)
  [<img src="https://img.shields.io/badge/inzamam_inz-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/inzamam-inz) 
