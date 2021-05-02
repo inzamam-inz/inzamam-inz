@@ -1,7 +1,7 @@
 ## Assalamu-Alaikum
  I am Md. Inzamam-Ul Haque Sobuz ✨
 - Studying at [Software Engineering, University of Dhaka](http://www.iit.du.ac.bd/)
-### My Github Stats
+## My Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=inzamam-inz&show_icons=true&theme=tokyonight)
 
 ## My Stacks
