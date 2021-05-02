@@ -1,4 +1,5 @@
-### Assalamu-Alaikum, I am Md. Inzamam-Ul Haque Sobuz ✨
+### Assalamu-Alaikum
+ I am Md. Inzamam-Ul Haque Sobuz ✨
 
 <!--
 **rakib3004/rakib3004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
