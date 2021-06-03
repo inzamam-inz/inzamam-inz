@@ -13,7 +13,7 @@
  [<img src="https://img.shields.io/badge/linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-inzamam-ul-haque-sobuz-637811193/)
  [<img src="https://img.shields.io/badge/inzamam_inz-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/inzamam-inz) 
  [<img src="https://img.shields.io/badge/inzamam_inz-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://codeforces.com/profile/inzamam_inz) 
- [<img src="https://img.shields.io/badge/inzamam_inz-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/inzamam_inz) 
+ [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/inzamam_inz) 
  [<img src="https://img.shields.io/badge/Codeforces-151515?style=for-the-badge&logo=codeforces&logoColor=20B2AA&labelColor=555555">](https://codeforces.com/profile/inzamam_inz) 
 
 ![Profile views](https://gpvc.arturio.dev/inzamam-inz)
