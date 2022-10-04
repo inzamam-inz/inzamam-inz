@@ -6,7 +6,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/inzamam_inz" alt="LC rating" />
   </a>
   <a href="https://codeforces.com/profile/inzamam_inz">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="CF rating" />
+    <img src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/rating.svg" alt="CF rating" />
   </a>
   <a href="https://stackoverflow.com/users/5921662/sudipto">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
