@@ -20,7 +20,10 @@
 </p>
 
 ## My Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=inzamam-inz&show_icons=true&theme=tokyonight)
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inzamam-inz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzamam-inz&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 ## My Stacks
 <img src="https://img.shields.io/badge/Languages: C++, C, Python, Java-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
@@ -36,8 +39,8 @@
 
 ## Competitive Programming
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/inzamam_inz?theme=dark&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/dark_card.svg" />
+<img height="273em" src="https://leetcard.jacoblin.cool/inzamam_inz?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/light_card.svg" />
 </p>
 
 ## Others
