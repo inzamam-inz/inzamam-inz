@@ -41,9 +41,10 @@
 <img height="280em" src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/light_card.svg" />
 </p>
 
-## Others
+<!-- ## Others
 [<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/inzamam-inz)
 ![Profile views](https://gpvc.arturio.dev/inzamam-inz)
+-->
 
 
 
