@@ -8,14 +8,14 @@
   <a href="https://codeforces.com/profile/inzamam_inz">
     <img src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/rating.svg" alt="CF rating" />
   </a>
-  <a href="https://stackoverflow.com/users/5921662/sudipto">
+  <a href="https://stackoverflow.com/users/5921662/inzamam_inz">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sudiptob2?color=green&logo=github">
+  <a href="https://github.com/inzamam-inz?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/inzamam-inz?color=green&logo=github">
   </a>
-  <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=sudiptob2" alt="visitors" />
+  <a href="https://github.com/inzamam-inz/">
+    <img src="https://komarev.com/ghpvc/?username=inzamam-inz" alt="visitors" />
   </a>
 </p>
 
