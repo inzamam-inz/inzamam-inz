@@ -20,12 +20,8 @@
 </p>
 
 ## My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamam-inz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inzamam-inz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamam-inz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamam-inz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inzamam-inz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+ 
 
 ## My Stacks
 <img src="https://img.shields.io/badge/Languages: C++, C, Python, Java-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
@@ -41,7 +37,7 @@
 
 ## Competitive Programming
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/inzamam_inz?theme=light&font=Karma&ext=contest" />
+<img height="275em" src="https://leetcard.jacoblin.cool/inzamam_inz?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/light_card.svg" />
 </p>
 
@@ -49,6 +45,5 @@
 [<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/inzamam-inz)
 ![Profile views](https://gpvc.arturio.dev/inzamam-inz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamam-inz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
