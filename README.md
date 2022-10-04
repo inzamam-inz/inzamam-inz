@@ -7,7 +7,8 @@
 ## My Stacks
 Languages: C++, C, Python, Java
 Tools: Angular, NodeJS, MongoDB, Docker
-
+[<img src="https://img.shields.io/badge/Tools: Angular, NodeJS, MongoDB, Docker-151515?style=for-the-badge&logo=SVG&logoColor=79740e">]
+ 
 ## Social Media
  [<img src="https://img.shields.io/badge/linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-inzamam-ul-haque-sobuz-637811193/) </br>
 
