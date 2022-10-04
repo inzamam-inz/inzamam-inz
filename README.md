@@ -34,6 +34,12 @@
  [<img src="https://img.shields.io/badge/Leetcode-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://leetcode.com/inzamam_inz/) 
  [<img src="https://img.shields.io/badge/codechef-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://www.codechef.com/users/inzamam_inz) 
 
+b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/inzamam_inz?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/light_card.svg" />
+</p>
+
 ## Others
 [<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/inzamam-inz)
 ![Profile views](https://gpvc.arturio.dev/inzamam-inz)
