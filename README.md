@@ -8,7 +8,7 @@
   <a href="https://codeforces.com/profile/inzamam_inz">
     <img src="https://raw.githubusercontent.com/inzamam-inz/cf-stats/main/output/rating.svg" alt="CF rating" />
   </a>
-  <a href="https://stackoverflow.com/users/5921662/inzamam_inz">
+  <a href="[https://stackoverflow.com/users/5921662/inzamam_inz](https://stackoverflow.com/users/15196982/inzamam-inz)">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/inzamam-inz?tab=followers">
