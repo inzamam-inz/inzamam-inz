@@ -22,8 +22,8 @@
 ## My Github Stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inzamam-inz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamam-inz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
 
 ## My Stacks
 <img src="https://img.shields.io/badge/Languages: C++, C, Python, Java-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
