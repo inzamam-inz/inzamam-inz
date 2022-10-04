@@ -6,7 +6,6 @@
 
 ## My Stacks
 <img src="https://img.shields.io/badge/Languages: C++, C, Python, Java-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
-</br>
 <img src="https://img.shields.io/badge/Tools: Angular, NodeJS, MongoDB, Docker-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
  
 ## Social Media
