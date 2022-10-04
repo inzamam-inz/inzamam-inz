@@ -49,6 +49,6 @@
 [<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=SVG&logoColor=79740e">](https://profile-summary-for-github.com/user/inzamam-inz)
 ![Profile views](https://gpvc.arturio.dev/inzamam-inz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Siam07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inzamam-inz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
