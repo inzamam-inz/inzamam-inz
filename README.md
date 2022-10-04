@@ -17,7 +17,6 @@
   <a href="https://github.com/inzamam-inz/">
     <img src="https://komarev.com/ghpvc/?username=inzamam-inz" alt="visitors" />
   </a>
- (https://profile-summary-for-github.com/user/inzamam-inz)![Profile views](https://gpvc.arturio.dev/inzamam-inz)
 </p>
 
 ## My Github Stats
