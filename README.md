@@ -1,5 +1,5 @@
 ## Assalamu-Alaikum
- I am Md. Inzamam-Ul Haque Sobuz, another software engineer currently working at [ELM Inc](https://www.elm.jp/) in Minamisatsuma, Kagoshima, Japan. I have experience in developing applications for both web (NestJS, Java Spring Boot, Angular) and desktop (WinUI 3), along with hands-on experience in embedded systems (ESP-32). With a strong background in competitive programming, I have honed my problem-solving skills. I studied Software Engineering at the [University of Dhaka](http://www.iit.du.ac.bd/). I love writing code and continuously exploring new challenges.
+ I am Md. Inzamam-Ul Haque Sobuz, just another software engineer in this giant repository called Earth, currently working at [ELM Inc](https://www.elm.jp/) in Minamisatsuma, Kagoshima, Japan. I have experience in developing applications for both web (NestJS, Java Spring Boot, Angular) and desktop (WinUI 3), along with hands-on experience in embedded systems (ESP-32). With a strong background in competitive programming, I have honed my problem-solving skills. I studied Software Engineering at the [University of Dhaka](http://www.iit.du.ac.bd/). I love writing code and continuously exploring new challenges.
 
 <p align="left">
   <a href="https://leetcode.com/inzamam_inz/">
