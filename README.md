@@ -24,7 +24,7 @@
  
 
 ## My Stacks
-<img src="https://img.shields.io/badge/Languages: C++, C, Python, Java-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
+<img src="https://img.shields.io/badge/Languages: C++, C, C#, Java, Python-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
 <img src="https://img.shields.io/badge/Tools: Angular, NestJs, WinUI 3, MongoDB, ESP32-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
  
 ## Social Media
