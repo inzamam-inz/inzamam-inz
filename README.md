@@ -25,7 +25,7 @@
 
 ## My Stacks
 <img src="https://img.shields.io/badge/Languages: C++, C, Python, Java-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
-<img src="https://img.shields.io/badge/Tools: Angular, NodeJS, MongoDB, Docker, Nginx-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
+<img src="https://img.shields.io/badge/Tools: Angular, NestJs, WinUI 3, MongoDB, ESP-32-151515?style=for-the-badge&logo=SVG&logoColor=79740e">
  
 ## Social Media
  [<img src="https://img.shields.io/badge/linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/md-inzamam-ul-haque-sobuz-637811193/) </br>
